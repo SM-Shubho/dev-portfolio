@@ -98,21 +98,19 @@ main {
 /* About Section ar style */
 
 .about {
-  text-align: center;
   margin-top: 130px;
+  text-align: center;
+
   background: #fff8f3;
   border-radius: 10px;
   padding: 130px 155px;
 }
 
 .section-title {
-
   color: #181818;
   font-weight: 700;
   font-size: 35px;
   margin-bottom: 30px;
-  
-  
 }
 
 .about-description {
@@ -137,5 +135,11 @@ main {
   font-weight: 700;
   font-size: 20px;
   color: #474747;
-  
+}
+
+/* what i do section's Styles */
+
+
+.what-i-do{
+    margin-top: 130px;
 }
