@@ -34,7 +34,7 @@
 nav {
   display: flex;
   justify-content: space-between;
-  margin: 50px 200px;
+  padding: 50px 200px;
 }
 
 nav li {
@@ -112,7 +112,7 @@ section {
   color: #181818;
   font-weight: 700;
   font-size: 35px;
-  margin-bottom: 30px;
+  margin-bottom: 100px;
 }
 
 .about-description {
